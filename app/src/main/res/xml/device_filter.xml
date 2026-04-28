@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 0x2341 (9025) is the standard Vendor ID for Arduino -->
+    <usb-device vendor-id="9025" />
+    <!-- CH340 clones (very common) often use 0x1A86 (6790) -->
+    <usb-device vendor-id="6790" />
+</resources>
